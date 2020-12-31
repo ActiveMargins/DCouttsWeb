@@ -2,7 +2,7 @@
 URL: /2018/06/04/introducing-the-istio-v1alpha3-routing-api/
 author:     "赵化冰"
 categories:
-- Tech
+- Blog
 date: "2018-06-04"
 description: 介绍Istio v1alpha3 routing API及其设计原则
 excerpt: 介绍Istio v1alpha3 routing API及其设计原则
