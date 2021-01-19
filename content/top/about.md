@@ -10,6 +10,6 @@ Danny is a geoscience graduate from the University of Calgary. His PhD focused o
 
 Post-PhD Danny is interested to apply his problem solving skills and domain knowledge to geospatial or geological fields developing new techniques and processes to add value to stakeholders and companies. 
 
-Danny is also an avid rock climber, back-country skiir, and madolin player. Some of that may filter in here as well.
+Danny is also an avid rock climber, back-country skier, and madolin player. Some of that may filter in here as well.
 
 This blog serves as a portfolio, blog, notepad, and working folder. All words reflect my own views not those of any funding agencies or employers.

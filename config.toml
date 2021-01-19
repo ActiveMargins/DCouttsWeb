@@ -35,7 +35,7 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "Danny Coutts is interested in everything to do with geology, geospatial methods, rock climbing, and playin the mandolin."
+  sidebar_about_description = "Danny Coutts is interested in everything to do with geology, geospatial methods, rock climbing, and playing the mandolin."
   sidebar_avatar = "img/CouttsProfile.jpeg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
@@ -54,7 +54,7 @@ home = ["HTML", "RSS", "Algolia"]
   # reward_guide = "如果这篇文章对你有用,请随意打赏" 
 
   friends = false
-  bookmarks = true
+  bookmarks = false
   about_me = true
 
   # Include any custom CSS and/or JS files, url or relative to /static folder
