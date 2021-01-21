@@ -7,6 +7,8 @@ image: 'img/20200930_181240.jpg'
 
 ## Danny Coutts
 
+I'm drawn to disentangling intricate geologic and geospatial relationships through the integration of numerous datasets and techniques. This has led me to use outcrop and subsurface geology, laboratory techniques, and modern data science workflows to analyze the rock record and provide insights into pointed industry-related problems. 
+
 This portfolio consists of a range of projects that describes that demonstrate my abilities in the following fields:
 - Sedimentary geology
 - Geospatial analysis, remote sensing, and cartography
@@ -19,10 +21,7 @@ This portfolio consists of a range of projects that describes that demonstrate m
 [GitHub Repo](https://github.com/ActiveMargins/stRatstat) || [shinyapps.io version](https://activemargins.shinyapps.io/stRat_stat/) || [CSPG 2020 Talk](https://www.youtube.com/watch?v=4cbkrBNZ2o4&ab_channel=CptCatastrophe) 
 
 Graphic logs (i.e., drawn core logs or measured sections) are one of the most commonly used tools to illustrate geologic heterogenity of sedimentary deposits. Although they are very common, they are rarely leveraged for more than visual analysis and description. This project set out to develop an open-source GUI-based software that allows users to digitize then summarize these data for use in exploratory data analysis or modeling.
-This project required:
- - Domain expertise - sedimentary geology and the requirements/desires of subsurface geological datasets.
- - Knowledge of tidy data framework - used to created powerful export files. 
- - Advanced R knowledge, RShiny - advanced work with manipulable plots and user-generated user interfaces.
+
 
 ![alt="stRat stat workflow" ](/img/portfolio/stRatstat_workflow.png)
 
@@ -31,9 +30,7 @@ This project required:
 ##### ASTER sensor workflow
 [GitHub Repo](https://github.com/ActiveMargins/ASTERSatelliteProcessing)
 
-The ASTER sensor on the TERRA satellite is one of the premiere multispectral sensor for mapping geologic bodies. This project focused on creating an object-oriented stack of functions that processed ASTER data from 1LB to top of atmosphere reflectance. Additional functions mask vegetation and snow, create mineral indices, and produce principle component analysis RGB false colour composites.This project required:
- - Advanced R knowledge - function scoping and functions with few dependencies
- - Ability to learn quickly - re-learning previous course-content from my undergrad and running with it!
+The ASTER sensor on the TERRA satellite is one of the premiere multispectral sensor for mapping geologic bodies. This project focused on creating an object-oriented stack of functions that processed ASTER data from 1LB to top of atmosphere reflectance. Additional functions mask vegetation and snow, create mineral indices, and produce principle component analysis RGB false colour composites.
 
 -----
 
@@ -41,11 +38,6 @@ The ASTER sensor on the TERRA satellite is one of the premiere multispectral sen
 [Google Scholar](https://scholar.google.com/citations?user=RogRDGAAAAAJ&hl=en) || [PhD thesis](https://prism.ucalgary.ca/handle/1880/112547)
 
 Deep-water sediment routing systems are more poorly understood compared to other sedimentary systems (e.g., fluvial or aeolian), as they difficult to monitor in the modern and are controlled by a number of upstream and downstream processes. My PhD work focused on deducing the allogenic controls on deep-water channel systems preserved in the upper Nanaimo Group, British Columbia, Canada. This was done by integrating field stratigraphy (field mapping, stratigraphic sections) with U-Pb detrital zircon techniques to constrain the timing of deep-water channel system sedimentation and compare it to the tectonic evolution of the near-by Coast Mountains. 
-This project required:
- - Domain expertise - deep-water systems, sedimentary basins, and tectonics.
- - VBA and R - used to create numerical models and visualize field data. 
- - Geospatial methods - databases for field data and integrate additional datasets (e.g., lidar).
- - Technical writing - presentation skills producing peer-reviewed academic journal articles, industry talks, and academic talks.
 
 -----
  
@@ -64,9 +56,3 @@ Geologic data can have spatial, temporal, numeric, and categorical properties. L
 The ability to visualize sedimentary processes and how various parameters coalesce to build stratigraphy is a skill that takes a long time to develop but is fundamental to understanding, mapping, and predicting the nature of sedimentary sequences. An easy way to help individuals understand this field is through the use of numerical models that given a set of inputs stochastically produce a model of stratigraphy. In this project I designed a simple stratigraphic forward model of fluvial deposits that runs on a RShiny GUI. 
 
 ![alt="Model GUI and example model of multiple channelbelts" ](/img/portfolio/ForwardStratigraphicModel.JPG)
-
-
-These two projects required:
- - Advanced R and RShiny knowledge
- - Quick learning and ability to "figure it out"
- - Agile mentality and ability to pivot design
