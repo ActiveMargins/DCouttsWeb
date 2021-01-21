@@ -1,4 +1,4 @@
-baseurl = "https://zhaohuabing.com" #THIS NEEDS TO CHANGE! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+baseurl = "https://couttsgeodata.netlify.app/" #THIS NEEDS TO CHANGE! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 title = "DCoutts Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
