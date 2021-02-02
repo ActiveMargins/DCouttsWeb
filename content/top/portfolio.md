@@ -14,9 +14,8 @@ This portfolio consists of a range of projects that describes that demonstrate m
 - Data science (cleaning through modeling)
 
 
-### Data Portfolio (tools and visualizations)
-##### stRat stat 
-[GitHub Repo](https://github.com/ActiveMargins/stRatstat) || [shinyapps.io version](https://activemargins.shinyapps.io/stRat_stat/) || [CSPG 2020 Talk](https://www.youtube.com/watch?v=4cbkrBNZ2o4&ab_channel=CptCatastrophe) 
+### Data Analysis/Science Portfolio (tools and visualizations)
+**stRat stat** || [GitHub Repo](https://github.com/ActiveMargins/stRatstat) || [shinyapps.io version](https://activemargins.shinyapps.io/stRat_stat/) || [CSPG 2020 Talk](https://www.youtube.com/watch?v=4cbkrBNZ2o4&ab_channel=CptCatastrophe) 
 
 Graphic logs (i.e., core logs or measured sections) are one of the most commonly used tools to illustrate geologic heterogenity of sedimentary deposits. Although they are very common, they are rarely leveraged for quantitative analysis. This project set out to develop an open-source GUI-based app that allows users to digitize then summarize these data for use in exploratory data analysis or modeling. Check out the [GitHub Repo](https://github.com/ActiveMargins/stRatstat) or [this blog post](https://couttsgeodata.netlify.app/post/2021-01-21-strat-stat-project/).
 
@@ -25,8 +24,7 @@ Graphic logs (i.e., core logs or measured sections) are one of the most commonly
 
 -----
 
-##### ASTER sensor workflow
-[GitHub Repo](https://github.com/ActiveMargins/ASTERSatelliteProcessing)
+**ASTER Sensor Workflow** || [GitHub Repo](https://github.com/ActiveMargins/ASTERSatelliteProcessing)
 
 The ASTER sensor on the TERRA satellite is one of the premiere multispectral sensor for mapping geologic bodies. This project focused on creating an object-oriented stack of functions that processed ASTER data from freely-available L1B data to top of atmosphere reflectance. Additional functions mask vegetation and snow, create mineral indices, and produce principle component analysis RGB false colour composites.
 
@@ -50,18 +48,28 @@ The ability to visualize sedimentary processes and how various parameters coales
 
 ![alt="Model GUI and example model of multiple channelbelts" ](/img/portfolio/ForwardStratigraphicModel.JPG)
 
+-----
+
+### Industry  Expereience
+
+**Visual Mud Index Development** || CNOOC International || Jan-Dec  2017
+
+At CNOOC I was tasked with developing a methodology to extract estimates of mud content from core photos of oil sands reservoirs. I achieved this using photo-thresholding techniques. Once thresholded, the thickness and number of beds could be extracted for each reservoir facies. These data were then used to form new distributions for geomodel variables (e.g., Vsh, net:gross) and to deduce the impact of mudstone baffles in steam chambers.
+I expanded the project to explore how these techniques could be used to analyze and classify the different types of mudstone breccia found within oilsands reservoirs. 
+
 
 -----
 
 ### Academic/Research Work
 [Google Scholar](https://scholar.google.com/citations?user=RogRDGAAAAAJ&hl=en) || [PhD thesis](https://prism.ucalgary.ca/handle/1880/112547)
 
-My academic research has largely focused on constraining the evolution of sedimentary systems in response to tectonic/basin processes. I've done this by incorporating traditional field and subsurface mapping with U-Pb detrital zircon data, and numerical models to better understand how these systems evolve and how we can best constrain this evolution. 
+My academic research has largely focused on constraining the evolution of sedimentary systems in response to tectonic/basin processes. I've done this by incorporating field methods and subsurface mapping with U-Pb detrital zircon data, and numerical models to better understand how these systems evolve and how we can best constrain their evolution. 
 
-My PhD work focused on deducing the allogenic controls on deep-water channel systems preserved in the upper Nanaimo Group, British Columbia, Canada. This was done by integrating field stratigraphy (field mapping, stratigraphic sections) with U-Pb detrital zircon techniques to constrain the timing of deep-water channel system sedimentation and compare it to the tectonic evolution of the near-by Coast Mountains. Previously worked on translating the stratigraphic architecture of fluvial systems of the Belly River from outcrop to the subsurface. I have also assisted with numerous graduate and undergraduate projects in the fields of basin analysis, stratigraphy and sedimentology, and reservoir characterization.
-
+My PhD work focused on deducing the allogenic controls on deep-water channel systems preserved in the upper Nanaimo Group, British Columbia, Canada. This was done by integrating field stratigraphy (field mapping, stratigraphic sections) with U-Pb detrital zircon techniques to constrain the timing of deep-water channel system sedimentation and compare it to the tectonic evolution of the near-by Coast Mountains. Previously worked on translating the stratigraphic architecture of fluvial systems of the Belly River from outcrop to the subsurface. I have also assisted with numerous graduate and undergraduate projects in the fields of basin analysis, sedimentology, and reservoir characterization.
 
 Publications are listed listed chronologically from most recent.
+
+* **Coutts**, Hubbard, Englert, Matthews, **IN REVIEW**, Twenty million years of deep-water sedimentation in response to forearc basin dynamics, The Depositional Record.
 
 * Englert, Hubbard, Cartigny, Clare, **Coutts**, Hage, Hughes Clarke, Jobe, Lintern, Stacey, Vendettuoli, 2020, [Quantifying the three‐dimensional stratigraphic expression of cyclic steps by integrating seafloor and deep‐water outcrop observations](https://onlinelibrary.wiley.com/doi/full/10.1111/sed.12772), Sedimentology, DOI: https://doi.org/10.1111/sed.12772.
 
@@ -74,3 +82,5 @@ Publications are listed listed chronologically from most recent.
 * Englert, Hubbard, **Coutts**, Matthews, 2018; [Tectonically controlled initiation of contemporaneous deep‐water channel systems along a Late Cretaceous continental margin, western British Columbia, Canada](https://onlinelibrary.wiley.com/doi/abs/10.1111/sed.12472): Sedimentology, DOI: https://doi.org/10.1111/sed.12472.
 
 * Matthews, Guest, **Coutts**, Bain, Hubbard, 2017, [Detrital zircons from the Nanaimo basin, Vancouver Island, British Columbia: An independent test of Late Cretaceous to Cenozoic northward translation](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017TC004531): Tectonics, DOI:  https://doi.org/10.1002/2017TC004531.
+
+I am also peer review manuscripts for journals in these fields: Frontiers in Geoscience, Earth Science Reviews, Earth Science Frontiers, Geological Magazine, and Basin Research.
