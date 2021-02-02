@@ -28,7 +28,9 @@ Graphic logs (i.e., core logs or measured sections) are one of the most commonly
 ##### ASTER sensor workflow
 [GitHub Repo](https://github.com/ActiveMargins/ASTERSatelliteProcessing)
 
-The ASTER sensor on the TERRA satellite is one of the premiere multispectral sensor for mapping geologic bodies. This project focused on creating an object-oriented stack of functions that processed ASTER data from 1LB to top of atmosphere reflectance. Additional functions mask vegetation and snow, create mineral indices, and produce principle component analysis RGB false colour composites.
+The ASTER sensor on the TERRA satellite is one of the premiere multispectral sensor for mapping geologic bodies. This project focused on creating an object-oriented stack of functions that processed ASTER data from freely-available L1B data to top of atmosphere reflectance. Additional functions mask vegetation and snow, create mineral indices, and produce principle component analysis RGB false colour composites.
+
+![alt="Example of ASTER Workflow"](/img/portfolio/ASTER_Workflow1.jpg)
 
 -----
  
