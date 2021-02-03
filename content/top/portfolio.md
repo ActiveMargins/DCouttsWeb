@@ -17,10 +17,10 @@ This portfolio consists of a range of projects that describes that demonstrate m
 ### Data Analysis/Science Portfolio (tools and visualizations)
 **stRat stat** || [GitHub Repo](https://github.com/ActiveMargins/stRatstat) || [shinyapps.io version](https://activemargins.shinyapps.io/stRat_stat/) || [CSPG 2020 Talk](https://www.youtube.com/watch?v=4cbkrBNZ2o4&ab_channel=CptCatastrophe) 
 
-Graphic logs (i.e., core logs or measured sections) are one of the most commonly used tools to illustrate geologic heterogenity of sedimentary deposits. Although they are very common, they are rarely leveraged for quantitative analysis. This project set out to develop an open-source GUI-based app that allows users to digitize then summarize these data for use in exploratory data analysis or modeling. Check out the [GitHub Repo](https://github.com/ActiveMargins/stRatstat) or [this blog post](https://couttsgeodata.netlify.app/post/2021-01-21-strat-stat-project/).
+Graphic logs (i.e., core logs or measured sections) are one of the most commonly used tools to illustrate the heterogeneity of sedimentary deposits. Although they are very common, they are rarely leveraged for quantitative analysis. This project set out to develop an open-source GUI-based app that allows users to digitize then summarize these data for use in exploratory data analysis or modeling. Check out the [GitHub Repo](https://github.com/ActiveMargins/stRatstat) or [this blog post](https://couttsgeodata.netlify.app/post/2021-01-21-strat-stat-project/).
 
 
-![alt="stRat stat workflow" ](/img/portfolio/stRatstat_workflow.png)
+![alt="stRat stat workflow" ](/img/portfolio/stRatstat_web.jpg)
 
 -----
 
@@ -83,4 +83,4 @@ Publications are listed listed chronologically from most recent.
 
 * Matthews, Guest, **Coutts**, Bain, Hubbard, 2017, [Detrital zircons from the Nanaimo basin, Vancouver Island, British Columbia: An independent test of Late Cretaceous to Cenozoic northward translation](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017TC004531): Tectonics, DOI:  https://doi.org/10.1002/2017TC004531.
 
-I am also peer review manuscripts for journals in these fields: Frontiers in Geoscience, Earth Science Reviews, Earth Science Frontiers, Geological Magazine, and Basin Research.
+I am also an active peer reviewer for journals in these fields: Frontiers in Geoscience, Earth Science Reviews, Earth Science Frontiers, Geological Magazine, and Basin Research.
