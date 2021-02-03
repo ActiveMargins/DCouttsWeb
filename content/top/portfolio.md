@@ -2,7 +2,7 @@
 title: "Portfolio"
 author: "Danny Coutts"
 date: 2021-01-18T19:30:00-05:00
-image: 'img/20200930_181240.jpg'
+#image: 'img/20200930_181240.jpg'
 ---
 
 I'm drawn to disentangling intricate geologic and geospatial relationships through the integration of numerous datasets and techniques. This has led me to use outcrop and subsurface geology, laboratory techniques, and modern data science workflows to analyze the rock record and provide insights into pointed industry-related problems. 
