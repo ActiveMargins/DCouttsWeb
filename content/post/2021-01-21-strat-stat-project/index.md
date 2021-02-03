@@ -10,7 +10,7 @@ tags:
   - RShiny
 subtitle: 'Diving into a complex RShiny app'
 description: 'The hurdles and solutions behind creating an app that allows geologist to turn graphic logs/core logs into a tabulated rich data format'
-image: 'img/2021_1_21-BehindstRatstat/header_valdes_crop.JPG'
+image: 'img/2021_1_21-BehindstRatstat/header_valdes_small.jpg'
 ---
 
 Designing a piece of software is challenging - defining minimum requirements, potential user desires, and platform limits are all very tricky. stRat stat was my first attempt at creating a cohesive application. This post focuses more on the main programming hurdles and solutions involved in implementation. If you want to know more about the features and uses of stRat stat, check out [GitHub repo](https://github.com/ActiveMargins/stRatstat) or my [2020 CSPG talk on stRat stat](https://www.youtube.com/watch?v=4cbkrBNZ2o4&ab_channel=CptCatastrophe).
