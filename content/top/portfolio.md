@@ -24,7 +24,7 @@ Graphic logs (i.e., core logs or measured sections) are one of the most commonly
 
 -----
 
-**Mapping under-exploited reservoir targets through production data** 
+**Mapping under-exploited reservoir targets through production curves** 
 
 Production data is often used to map high-performing and low-performing reservoirs, however the gross production of a well or field does not tell the whole store about potential performance. This project set out to find potential reservoir targets that are currently under-performing by mapping common production curve shapes. This involved cleaning annual production data for the entire WCSB, fitting GAM models to de-noise production data, clustering production curves into common shapes using dynamic time warping, and performing spatial analysis on the resulting clusters to find potential targets and analogs.
 
@@ -74,7 +74,6 @@ My academic research has largely focused on constraining the evolution of sedime
 My PhD work focused on deducing the allogenic controls on deep-water channel systems preserved in the upper Nanaimo Group, British Columbia, Canada. This was done by integrating field stratigraphy (field mapping, stratigraphic sections) with U-Pb detrital zircon techniques to constrain the timing of deep-water channel system sedimentation and compare it to the tectonic evolution of the near-by Coast Mountains. Previously worked on translating the stratigraphic architecture of fluvial systems of the Belly River from outcrop to the subsurface. I have also assisted with numerous graduate and undergraduate projects in the fields of basin analysis, sedimentology, and reservoir characterization.
 
 ![alt="Example of ASTER Workflow"](/img/portfolio/Thesis_Image.jpg)
-
 
 Publications are listed listed chronologically from most recent.
 
