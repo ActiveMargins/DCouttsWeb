@@ -17,14 +17,20 @@ This portfolio consists of a range of projects that describes that demonstrate m
 ### Data Analysis/Science Portfolio (tools and visualizations)
 **stRat stat** || [GitHub Repo](https://github.com/ActiveMargins/stRatstat) || [shinyapps.io version](https://activemargins.shinyapps.io/stRat_stat/) || [CSPG 2020 Talk](https://www.youtube.com/watch?v=4cbkrBNZ2o4&ab_channel=CptCatastrophe) 
 
-Graphic logs (i.e., core logs or measured sections) are one of the most commonly used tools to illustrate the heterogeneity of sedimentary deposits. Although they are very common, they are rarely leveraged for quantitative analysis. This project set out to develop an open-source GUI-based app that allows users to digitize then summarize these data for use in exploratory data analysis or modeling. Check out the [GitHub Repo](https://github.com/ActiveMargins/stRatstat) or [this blog post](https://couttsgeodata.netlify.app/post/2021-01-21-strat-stat-project/).
+Graphic logs (i.e., core logs or measured sections) are one of the most commonly used tools to illustrate the heterogeneity of sedimentary deposits. Although they are very common, they are rarely leveraged for quantitative analysis. In this project I developed an open-source GUI-based app that allows users to digitize then automatically summarize graphic log data for use in exploratory data analysis or modeling. Check out the [GitHub Repo](https://github.com/ActiveMargins/stRatstat) or [this blog post](https://couttsgeodata.netlify.app/post/2021-01-21-strat-stat-project/).
 
 
 ![alt="stRat stat workflow" ](/img/portfolio/stRatstat_web.jpg)
 
 -----
 
-**ASTER Sensor Workflow** || [GitHub Repo](https://github.com/ActiveMargins/ASTERSatelliteProcessing)
+**Mapping under-exploited reservoir targets through production data** 
+
+Production data is often used to map high-performing and low-performing reservoirs, however the gross production of a well or field does not tell the whole store about potential performance. This project set out to find potential reservoir targets that are currently under-performing by mapping common production curve shapes. This involved cleaning annual production data for the entire WCSB, fitting GAM models to de-noise production data, clustering production curves into common shapes using dynamic time warping, and performing spatial analysis on the resulting clusters to find potential targets and analogs.
+
+-----
+
+**ASTER sensor workflow** || [GitHub Repo](https://github.com/ActiveMargins/ASTERSatelliteProcessing)
 
 The ASTER sensor on the TERRA satellite is one of the premiere multispectral sensor for mapping geologic bodies. This project focused on creating an object-oriented stack of functions that processed ASTER data from freely-available L1B data to top of atmosphere reflectance. Additional functions mask vegetation and snow, create mineral indices, and produce principle component analysis RGB false colour composites.
 
@@ -66,6 +72,9 @@ I expanded the project to explore how these techniques could be used to analyze 
 My academic research has largely focused on constraining the evolution of sedimentary systems in response to tectonic/basin processes. I've done this by incorporating field methods and subsurface mapping with U-Pb detrital zircon data, and numerical models to better understand how these systems evolve and how we can best constrain their evolution. 
 
 My PhD work focused on deducing the allogenic controls on deep-water channel systems preserved in the upper Nanaimo Group, British Columbia, Canada. This was done by integrating field stratigraphy (field mapping, stratigraphic sections) with U-Pb detrital zircon techniques to constrain the timing of deep-water channel system sedimentation and compare it to the tectonic evolution of the near-by Coast Mountains. Previously worked on translating the stratigraphic architecture of fluvial systems of the Belly River from outcrop to the subsurface. I have also assisted with numerous graduate and undergraduate projects in the fields of basin analysis, sedimentology, and reservoir characterization.
+
+![alt="Example of ASTER Workflow"](/img/portfolio/Thesis_Image.jpg)
+
 
 Publications are listed listed chronologically from most recent.
 
