@@ -12,12 +12,12 @@ subtitle: 'Trolling through CRAN finding all the geoscience related libraries'
 description: 'There is a great deal of fantastic geoscience-related code on CRAN that is a few keystrokes away. I did the hard part, look through 6000+ packages on CRAN. Now can do the fun part, use this code to do better geoscience!'
 ---
 
-![alt="GEOSCIENCE IN R" ](/img/2021_2_28-R-basedGeoscience/TopImage.jpg)
+![alt="GEOSCIENCE IN R" ](/img/2021_2_28-R-basedGeoscience/TopImage.png)
 
 ## R libraries for geoscience 
-In a chat with another data-oriented geologist, they mentioned a popular R package for geochemistry data (rgr) that I had not heard of. After looking in to rgr a decided to troll through the list of current CRAN packages and find all the geoscience related packages.
+In a chat with another data-oriented geologist, they mentioned a popular R package for geochemistry data (rgr) that I had not heard of. After looking in to rgr a decided to troll through the list of current CRAN packages and find all the geoscience related packages.**If I've missed a R library that you use or know of, let me know! I would love to make the a more complete list!** Again, this is just at list of the libraries that are up-to-date on CRAN, others may have not been kept up to date, but that doesn't mean we can't rally support for them. Additionally, I would be interested to learn about libraries hosted other repositories (e.g., GitHub).
 
-For non-R programmers, the Comprehensive R Archive Network (CRAN) is the main repository for R packages. Packages listed on CRAN (about 17 206 of them) are tested daily on multiple systems to check for dependency issues as other packages in the R environment are updated. Packages on CRAN have been more-or-less “peer-reviewed”, unit tested, and have standardized documentation. It is a fantastic resource that benefits the entire R community.
+For non-R programmers, the Comprehensive R Archive Network (CRAN) is the main repository for R packages. Packages listed on CRAN (about 17206 of them) are tested daily on multiple systems to check for dependency issues as other packages in the R environment are updated. These have been more-or-less “peer-reviewed” by R experts, unit tested, and have standardized documentation. It is a fantastic resource that benefits the entire R community.
 
 While going through the list of packages on CRAN I was blown away by the diversity of geoscience-related packages that are available. In this list I also wanted to highlight which packages have datasets built into the package. In my pursuit to develop stronger data analysis/science skills, having a variety of datasets on hand to play with is pretty handy. 
 
