@@ -95,14 +95,15 @@ For those looking to pick up basic R then blast right into more complex topics l
 
 ## For those looking for datasets to play with
 ### Geoscience-related datasets
-As I said up top, having a variety of datasets to play around with is fantastic. I wanted to highlight the packages that are chalked full of datasets that could be used by others to develop their skills or are teaching R basics and wanted datasets that are more geoscience focused than mtcars…
-provenance – A large provenance dataset composed of detrital zircon ages, compositional bulk petrography data, heavy mineral composition, and major and trace element data.
+As I said up top, having a variety of datasets to play around with is fantastic. I wanted to highlight the packages that include datasets within them. These datasets are great to practice skills visualization and modeling skills, as many of them have been cleaned, but most of all, they are more interesting than mtcars…
+
+[provenance](https://cran.r-project.org/web/packages/provenance/index.html) – A large provenance dataset composed of detrital zircon ages, compositional bulk petrography data, heavy mineral composition, and major and trace element data.
 
 [folio](https://cran.r-project.org/web/packages/folio/index.html) – Datasets for teaching quantitative approaches and modeling in archaeology and paleontology. Geological datasets include ice core data, δ18O data foram and sea level data. The archeological datasets, however, are very interesting radiocarbon dating examples and trace element data from ancient ceramics.
 
-[“geostats” package](https://cran.r-project.org/web/packages/geostats/index.html) – geostats includes 23 different datasets that are all used in examples/exercise throughout the .pdf textbook. Some highlights are:
+[geostats](https://cran.r-project.org/web/packages/geostats/index.html) – geostats includes 23 different datasets that are all used in examples/exercise throughout the .pdf textbook. Some highlights are:
 - AFM - 630 calc-alkali basalts from the Cascade Mountains and 474 tholeiitic basalts from Iceland
-declustered - 28267 earthquakes between 1769 and 2016, with aftershocks and precursor events removed
+- declustered - 28267 earthquakes between 1769 and 2016, with aftershocks and precursor events removed
 - DZ – Detrital zircon U-Pb data of 13 sand samples from China.
 - forams – Planktic foraminifera counts in surface sediments in the Atlantic Ocean
 fractures – A 512 × 512 pixel image of a fracture network.
