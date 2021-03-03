@@ -28,11 +28,13 @@ Graphic logs (i.e., core logs or measured sections) are one of the most commonly
 
 Production data is often used to map high-performing and low-performing reservoirs, however the gross production of a well or field does not tell the whole store about potential performance. This project set out to find potential reservoir targets that are currently under-performing by mapping common production curve shapes. This involved cleaning annual production data for the entire WCSB, fitting GAM models to de-noise production data, clustering production curves into common shapes using dynamic time warping, and performing spatial analysis on the resulting clusters to find potential targets and analogs.
 
+![alt="Shape-based production" ](/img/portfolio/ShapebasedProductionImage2.png)
+
 -----
 
 **ASTER sensor workflow** || [GitHub Repo](https://github.com/ActiveMargins/ASTERSatelliteProcessing)
 
-The ASTER sensor on the TERRA satellite is one of the premiere multispectral sensor for mapping geologic bodies. This project focused on creating an object-oriented stack of functions that processed ASTER data from freely-available L1B data to top of atmosphere reflectance. Additional functions mask vegetation and snow, create mineral indices, and produce principle component analysis RGB false colour composites.
+The ASTER sensor on the TERRA satellite is one of the premiere multispectral sensor for mapping geologic bodies. This project focused on creating an object-oriented stack of functions that processed ASTER data from freely-available L1B data to top of atmosphere reflectance. Additional functions mask vegetation and snow, create mineral indices, and produce principle component analysis RGB false-colour composites.
 
 ![alt="Example of ASTER Workflow"](/img/portfolio/ASTER_Workflow1.jpg)
 
