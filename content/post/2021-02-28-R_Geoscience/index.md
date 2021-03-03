@@ -37,6 +37,7 @@ While going through the list of packages on CRAN I was blown away by the diversi
 - [isoplotR](https://cran.r-project.org/web/packages/IsoplotR/index.html) - Statistical toolbox for radiometric geochronology - *datasets included*
 - [OrgMassSpecR](https://cran.r-project.org/web/packages/OrgMassSpecR/index.html) - Organic/biological mass spectrometry data analysis
 - [CHNOSZ](https://cran.r-project.org/web/packages/CHNOSZ/index.html) - Thermodynamic calculations and diagrams for geochemistry
+- [ggtern](https://cran.r-project.org/web/packages/ggtern/index.html) - An extension to 'ggplot2', for the creation of ternary diagrams - *datasets included*
 
 ### Geostatistics
 - [geotoolsR](https://cran.r-project.org/web/packages/geotoolsR/index.html) - Tools to improve the use of geostatistic
@@ -97,9 +98,9 @@ For those looking to pick up basic R then blast right into more complex topics l
 ### Geoscience-related datasets
 As I said up top, having a variety of datasets to play around with is fantastic. I wanted to highlight the packages that include datasets within them. These datasets are great to practice skills visualization and modeling skills, as many of them have been cleaned, but most of all, they are more interesting than mtcars…
 
-[provenance](https://cran.r-project.org/web/packages/provenance/index.html) – A large provenance dataset composed of detrital zircon ages, compositional bulk petrography data, heavy mineral composition, and major and trace element data.
+[provenance](https://cran.r-project.org/web/packages/provenance/index.html) – provenance includes a large  dataset composed of detrital zircon ages, compositional bulk petrography data, heavy mineral composition, and major and trace element data.
 
-[folio](https://cran.r-project.org/web/packages/folio/index.html) – Datasets for teaching quantitative approaches and modeling in archaeology and paleontology. Geological datasets include ice core data, δ18O data foram and sea level data. The archeological datasets, however, are very interesting radiocarbon dating examples and trace element data from ancient ceramics.
+[folio](https://cran.r-project.org/web/packages/folio/index.html) – Datasets for teaching quantitative approaches and modeling in archaeology and paleontology. Geological datasets include ice core data, δ18O data foram and sea level data. The archaeological datasets, however, are very interesting radiocarbon dating examples and trace element data from ancient ceramics.
 
 [geostats](https://cran.r-project.org/web/packages/geostats/index.html) – geostats includes 23 different datasets that are all used in examples/exercise throughout the .pdf textbook. Some highlights are:
 - AFM - 630 calc-alkali basalts from the Cascade Mountains and 474 tholeiitic basalts from Iceland
@@ -108,7 +109,12 @@ As I said up top, having a variety of datasets to play around with is fantastic.
 - forams – Planktic foraminifera counts in surface sediments in the Atlantic Ocean
 fractures – A 512 × 512 pixel image of a fracture network.
 
-[strap](https://cran.r-project.org/web/packages/strap/index.html) – a package for building, analyzing, and visualizing phylogenic trees of taxa. It includes family trees of lungfish (dipnoans), trilobites (Asaphidae), and a structured version of regional stages for the Ordovician in Britain. 
+[strap](https://cran.r-project.org/web/packages/strap/index.html) – A package for building, analyzing, and visualizing phylogenic trees of taxa. It includes family trees of lungfish (dipnoans), trilobites (Asaphidae), and a structured version of regional stages for the Ordovician in Britain. 
+
+[ggtern](https://cran.r-project.org/web/packages/ggtern/index.html) - A package that extends ggplot2 to create ternary plots. This package includes:
+ - Feldspar - feldspar composition data
+ - Fragments - sand composition data related to morphometric information of drainages in the Coweeta Basin, North Carolina
+ - SkyeLava - AFM compositions of 23 aphyric Skye lavas
 
 ### Non-geoscience related
 For non-geoscience-related datasets there three main packages that contain classic datasets. An advantage of using these is that are you can easily find multiple solutions to a single dataset and see how people approached and dissected these problems. The main packages composed of datasets are: 

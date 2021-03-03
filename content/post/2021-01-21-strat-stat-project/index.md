@@ -28,9 +28,9 @@ A distinct problem of turning these data into a truly digital version is the ric
 ### 1) RShiny GUI for Digitization
 Firstly, geologists are a famously analog group of scientists. To make a piece of software that would be usable by *all* geologists. It had to be have a simple GUI, full stop. Secondly, the most accurate way to collect data from a diverse range of stratigraphic section formats (x-axis increasing to the left or right, different colour schemes, or different symbologies) is manual digitization. Due to the non-standardized nature of the data, this is the only way forward. In an upcoming manuscript (keep your eyes peeled!) we do suggest some formats that may allow for future machine learning techniques to exploit. Point-and-click digitization allows for all edge cases to be caught in a very accurate way. 
 
-In Shiny, this was accomplished by interacting with plots. On the digitization pages, there are two plots, where brushing a box on the left plot scales the coordiates and filters the points see on the right plot. The actual digitization works in a similar way, where pixel coordinates are recorded based on plot interactions on the right plot. These coordinates are written to a reactive dataframe and are later converted from pixel location to grain size and/or thickness measurments. 
+In Shiny, this was accomplished by interacting with plots. On the digitization pages, there are two plots, where brushing a box on the left plot scales the coordiates and filters the points see on the right plot. The actual digitization works in a similar way, where pixel coordinates are recorded based on plot interactions on the right plot. These coordinates are written to a reactive dataframe and are later converted from pixel location to grain size and/or thickness measurements. 
 
-![alt="Multipage layout with upload and download buttons" ](/img/2021_1_21-BehindstRatstat/WorkingInRShiny.JPG)
+![alt="Multipage layout with upload and download buttons" ](/img/2021_1_21-BehindstRatstat/ReactiveUI.JPG)
 
 
 ### 2) User-generated rock classifications
