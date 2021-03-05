@@ -15,14 +15,15 @@ description: 'There is a great deal of fantastic geoscience-related code on CRAN
 ![alt="GEOSCIENCE IN R" ](/img/2021_2_28-R-basedGeoscience/TopImage.png)
 
 ## R libraries for geoscience 
-In a chat with another data-oriented geologist, they mentioned a popular R package for geochemistry data (rgr) that I had not heard of. After looking in to rgr a decided to troll through the list of current CRAN packages and find all the geoscience related packages.**If I've missed a R library that you use or know of, let me know! I would love to make the a more complete list!** Again, this is just at list of the libraries that are up-to-date on CRAN, others may have not been kept up to date, but that doesn't mean we can't rally support for them. Additionally, I would be interested to learn about libraries hosted other repositories (e.g., GitHub).
+In a chat with another data-oriented geologist, they mentioned a popular R package for geochemistry data (rgr) that I had not heard of. After looking in to rgr a decided to troll through the list of current CRAN packages and find all the geoscience related packages. Again, this is just at list of the libraries that are up-to-date on CRAN, others may have not been kept up to date, but that doesn't mean we can't rally support for them. Additionally, I would be interested to learn about libraries hosted other repositories (e.g., GitHub). **If I've missed a R library that you use or know of, let me know! I would love to make the a more complete list!**
 
 For non-R programmers, the Comprehensive R Archive Network (CRAN) is the main repository for R packages. Packages listed on CRAN (about 17206 of them) are tested daily on multiple systems to check for dependency issues as other packages in the R environment are updated. These have been more-or-less “peer-reviewed” by R experts, unit tested, and have standardized documentation. It is a fantastic resource that benefits the entire R community.
 
 While going through the list of packages on CRAN I was blown away by the diversity of geoscience-related packages that are available. In this list I also wanted to highlight which packages have datasets built into the package. In my pursuit to develop stronger data analysis/science skills, having a variety of datasets on hand to play with is pretty handy. 
 
-### General Geology and Mapping
-- [geoscale](https://cran.r-project.org/web/packages/geoscale/index.html) - geological Time Scale Plotting
+### General geoscience and mapping
+- [geoscale](https://cran.r-project.org/web/packages/geoscale/index.html) - geological time scale plotting
+- [astrochron](https://cran.r-project.org/web/packages/astrochron/index.html) - a package for conducting, and learning about: (1) paleoclimate time series analysis, (2) astronomical time scale construction, and (3) the statistical integration of astrochronologies with other geochronologic/chronostratigraphic data.
 - [GEOmap](https://cran.r-project.org/web/packages/GEOmap/index.html) - Topographic and geologic mapping - *datasets included*
 - [geomapdata](https://cran.r-project.org/web/packages/geomapdata/index.html) - Set of data for use in package GEOmap - *datasets included*
 - [Globe](https://cran.r-project.org/web/packages/globe/index.html) - Plot 2D and 3D Views of the Earth - *datasets included*
@@ -43,14 +44,13 @@ While going through the list of packages on CRAN I was blown away by the diversi
 - [geotoolsR](https://cran.r-project.org/web/packages/geotoolsR/index.html) - Tools to improve the use of geostatistic
 - [georob](https://cran.r-project.org/web/packages/georob/index.html) - Robust geostatistical analysis of spatial data - *datasets included*
 - [gear](https://cran.r-project.org/web/packages/gear/index.html) - Geostatistical analysis in R - *datasets included*
-- [gstat](https://cran.r-project.org/web/packages/gstat/index.html) - Spatial and spatio-temporal geostatistical modelling, prediction, and simulation - *datasets included*
+- [gstat](https://cran.r-project.org/web/packages/gstat/index.html) - Spatial and spatio-temporal geostatistical modeling, prediction, and simulation - *datasets included*
 - [geostats](https://cran.r-project.org/web/packages/geostats/index.html) - An introduction to statistics for geoscientists - *datasets included*
 
 ### Hydrology
 - [GWSDAT](https://cran.r-project.org/web/packages/GWSDAT/index.html) - Groundwater spatiotemporal data analysis tool - **includes RShiny data exploration tool!**
 - [streamDepletr](https://cran.r-project.org/web/packages/streamDepletr/index.html) - Estimate streamflow depletion due to groundwater pumping - *datasets included*
 - [GlacierSMBM](https://cran.r-project.org/web/packages/glacierSMBM/index.html) - Glacier surface mass balance model - *datasets included*
-
 
 ### Oil and Gas
 - [Rmbal](https://cran.r-project.org/web/packages/Rmbal/index.html) - Estimate original hydrocarbon in place and reservoir performance
@@ -61,9 +61,10 @@ While going through the list of packages on CRAN I was blown away by the diversi
 - [paleobioDB](https://cran.r-project.org/web/packages/paleobioDB/index.html) - Download and process data from the paleobiology batabase
 - [fossil](https://cran.r-project.org/web/packages/fossil/index.html) - Palaeoecological and palaeogeographical analysis tools - *datasets included*
 - [FossilSim](https://cran.r-project.org/web/packages/FossilSim/index.html) - Simulating taxonomy and fossil data on phylogenetic trees under mechanistic models of speciation, preservation and sampling
-- [strap](https://cran.r-project.org/web/packages/strap/index.html) - Stratigraphic tree analyiss for paleontology - *datasets included*
+- [strap](https://cran.r-project.org/web/packages/strap/index.html) - Stratigraphic tree analysis for paleontology - *datasets included*
 - [folio](https://cran.r-project.org/web/packages/folio/index.html) - Datasets for teaching archaeology and paleontology - *datasets included*
 - [chronosphere](https://cran.r-project.org/web/packages/chronosphere/index.html) - A package to facilitate spatially explicit analyses of (paleo)environmental/ecological research - *datasets included*
+- [vegan](https://cran.r-project.org/web/packages/vegan/index.html) - Ordination methods, diversity analysis and other functions for community and vegetation ecologists.
 
 ### Provenance Analysis
 - [fingerPro](https://cran.r-project.org/web/packages/fingerPro/index.html) - Sediment source fingerprinting
@@ -76,23 +77,29 @@ While going through the list of packages on CRAN I was blown away by the diversi
 - [GRTo](https://cran.r-project.org/web/packages/GRTo/index.html) - Tools for the analysis of Gutenberg-Richter distributions of earthquake magnitudes
 - [TauP.R](https://cran.r-project.org/web/packages/TauP.R/index.html) - Earthquake traveltime calculations for 1D earth models - *datasets included*
 
-
 ### Stratigraphy
 - [stratigrapheR](https://cran.r-project.org/web/packages/StratigrapheR/index.html) - Integrated stratigraphy tools for plotting stratigraphic data
 - [SDAR](https://cran.r-project.org/web/packages/SDAR/index.html) - A tool for plotting and facilitating the analysis of stratigraphic and sedimentological data - *includes datasets*
 - [coreCT](https://cran.r-project.org/web/packages/coreCT/index.html) - Programmatic analysis of sediment cores using computed tomography imaging - *includes datasets*
 - [G2sd](https://cran.r-project.org/web/packages/G2Sd/index.html) - Grain-size statistics and description of sediment - *includes datasets*
-- [EMMAgeo](https://cran.r-project.org/web/packages/EMMAgeo/index.html) - End-member modelling of grain-size data
+- [EMMAgeo](https://cran.r-project.org/web/packages/EMMAgeo/index.html) - End-member modeling of grain-size data
 - [DecomposeR](https://cran.r-project.org/web/packages/DecomposeR/index.html) - Empirical model decomposition for cyclostratigraphy
-
 
 ### Structural Geology
 - [RockFab](https://cran.r-project.org/web/packages/RockFab/index.html) - Rock fabric and strain analysis tools
 
-## For those learning R
-For those who do not know R but may have found a package that interests them, I suggest you check out the [“swirl” package](https://cran.r-project.org/web/packages/swirl/index.html) that allows you to learn R in R! swirl was built by a student at Johns Hopkins University and houses a lot of different coursers ranging from introduction to R, data cleaning, visualization in R, and all the way to inferential statistics and regression models. I’ve used swirl in Coursera’s/John Hopkins Biostatistics’ “Data Science in R” course series – it’s fantastic.
+## Non-CRAN resources
+ - Steven Holland, of the University of Georgia, has a "Data Analysis in the Geosciences" course that incorporates R scripts for [sandstone provenance](http://strata.uga.edu/8370/rtips/provenance.html), [ternary plots](http://strata.uga.edu/8370/rtips/ternaryPlots.html),  and [rose diagrams](http://strata.uga.edu/8370/rtips/roseDiagrams.html). 
+- [stRat stat](https://github.com/ActiveMargins/stRatstat) - My R-based digitizer for turning hand-drawn graphic logs into a digital/numeric format, is available on GitHub
 
-For those looking to pick up basic R then blast right into more complex topics like geostatistics, there is the [“geostats” package](https://cran.r-project.org/web/packages/geostats/index.html) by Pieter Vermeesch. This package is the companion code and datasets for a course run at University College London. The CRAN repository has a link to a short .pdf textbook for the course, which includes a short introduction to R. The .pdf textbook also has exercises for each chapter that use datasets built into the package.
+
+
+## For those learning R
+For those who do not know R but may have found a package that interests them, I suggest you check out the [“swirl” package](https://cran.r-project.org/web/packages/swirl/index.html) that allows you to learn R in the R console! swirl was built by a student at Johns Hopkins University and houses a lot of different coursers ranging from introduction to R, data cleaning, visualization in R, and all the way to inferential statistics and regression models. I’ve used swirl in Coursera’s/John Hopkins Biostatistics’ “Data Science in R” course series – it’s fantastic.
+
+If you're looking to pick up some basic R then blast right into more complex topics like geostatistics, there is the [“geostats” package](https://cran.r-project.org/web/packages/geostats/index.html) by Pieter Vermeesch. This package is the companion code and datasets for a course run at University College London. The CRAN repository has a link to a short .pdf textbook for the course, which includes a short introduction to R. The .pdf textbook also has exercises for each chapter that use datasets built into the package.
+
+Lastly, if you're looking to increase your data analysis skills and R at the same time, Steve Holland's course [Data Analysis in the Geosciences](http://strata.uga.edu/8370/index.html) has lots of online material.  
 
 ## For those looking for datasets to play with
 ### Geoscience-related datasets
@@ -103,7 +110,7 @@ As I said up top, having a variety of datasets to play around with is fantastic.
 [folio](https://cran.r-project.org/web/packages/folio/index.html) – Datasets for teaching quantitative approaches and modeling in archaeology and paleontology. Geological datasets include ice core data, δ18O data foram and sea level data. The archaeological datasets, however, are very interesting radiocarbon dating examples and trace element data from ancient ceramics.
 
 [geostats](https://cran.r-project.org/web/packages/geostats/index.html) – geostats includes 23 different datasets that are all used in examples/exercise throughout the .pdf textbook. Some highlights are:
-- AFM - 630 calc-alkali basalts from the Cascade Mountains and 474 tholeiitic basalts from Iceland
+- AFM - 630 calc-alkali basalts from the Cascade Mountains and 474 tholeiitic basats from Iceland
 - declustered - 28267 earthquakes between 1769 and 2016, with aftershocks and precursor events removed
 - DZ – Detrital zircon U-Pb data of 13 sand samples from China.
 - forams – Planktic foraminifera counts in surface sediments in the Atlantic Ocean
