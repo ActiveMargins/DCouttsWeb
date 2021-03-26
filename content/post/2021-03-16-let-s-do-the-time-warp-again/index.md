@@ -51,7 +51,7 @@ The dataframe consisting of older, steadily producing wells was used as the inpu
 
 ![alt="Extracted and mapped shape centroids" ](/img/2021-03-16-let-s-do-the-time-warp-again/ClustersImage100.png)
 
-Focusing in on cluster 3, a spatial buffer was applied to look for examples of these wells either cluster 3 wells or no wells within 3 km radius. This spatial buffering exercise returned a list of 12 wells that could be investigated futher to see whether modern completion techniques could be used to enhance the production. Again, this is only for the Cardium Formation but could easily be applied to a different formation or a specific pool and for other fluids.
+Focusing in on cluster 3, a 3 km spatial buffer was applied to look for areas where cluster 3 wells were alone or near other cluster 3 wells. This spatial buffering exercise returned a list of 12 wells that could be investigated further to see whether modern completion techniques could be used to enhance the production. Again, this analysis was only for the Cardium Formation (Alberta, Canada) but could easily be applied to a different formation or a specific pool and for other fluids.
 
 ## Applications to other time series datasets
 

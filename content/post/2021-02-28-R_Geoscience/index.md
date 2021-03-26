@@ -39,6 +39,7 @@ While going through the list of packages on CRAN I was blown away by the diversi
 - [OrgMassSpecR](https://cran.r-project.org/web/packages/OrgMassSpecR/index.html) - Organic/biological mass spectrometry data analysis
 - [CHNOSZ](https://cran.r-project.org/web/packages/CHNOSZ/index.html) - Thermodynamic calculations and diagrams for geochemistry
 - [ggtern](https://cran.r-project.org/web/packages/ggtern/index.html) - An extension to 'ggplot2', for the creation of ternary diagrams - *datasets included*
+- [phreeqc](https://cran.r-project.org/web/packages/phreeqc/index.html) - R Interface to Geochemical Modeling Software
 
 ### Geostatistics
 - [geotoolsR](https://cran.r-project.org/web/packages/geotoolsR/index.html) - Tools to improve the use of geostatistic
@@ -55,6 +56,7 @@ While going through the list of packages on CRAN I was blown away by the diversi
 ### Oil and Gas
 - [Rmbal](https://cran.r-project.org/web/packages/Rmbal/index.html) - Estimate original hydrocarbon in place and reservoir performance
 - [Rpvt](https://cran.r-project.org/web/packages/Rpvt/index.html) - Estimate the PVT properties of reservoir fluids
+- [zFactor](https://github.com/f0nzie/zFactor) - **GitHub Repo** - Computational tools for chemical, petrochemical and petroleum engineers
 
 ### Paleontology
 - [velociraptr](https://cran.r-project.org/web/packages/velociraptr/index.html) - Functions for downloading, cleaning, and analyzing fossil data from the Paleobiology Database
@@ -84,13 +86,14 @@ While going through the list of packages on CRAN I was blown away by the diversi
 - [G2sd](https://cran.r-project.org/web/packages/G2Sd/index.html) - Grain-size statistics and description of sediment - *includes datasets*
 - [EMMAgeo](https://cran.r-project.org/web/packages/EMMAgeo/index.html) - End-member modeling of grain-size data
 - [DecomposeR](https://cran.r-project.org/web/packages/DecomposeR/index.html) - Empirical model decomposition for cyclostratigraphy
+- [stRat stat](https://github.com/ActiveMargins/stRatstat) - **GitHub Repo** - My R-based digitizer for turning hand-drawn graphic logs into a digital/numeric format
 
 ### Structural Geology
 - [RockFab](https://cran.r-project.org/web/packages/RockFab/index.html) - Rock fabric and strain analysis tools
 
 ## Non-CRAN resources
  - Steven Holland, of the University of Georgia, has a "Data Analysis in the Geosciences" course that incorporates R scripts for [sandstone provenance](http://strata.uga.edu/8370/rtips/provenance.html), [ternary plots](http://strata.uga.edu/8370/rtips/ternaryPlots.html),  and [rose diagrams](http://strata.uga.edu/8370/rtips/roseDiagrams.html). 
-- [stRat stat](https://github.com/ActiveMargins/stRatstat) - My R-based digitizer for turning hand-drawn graphic logs into a digital/numeric format, is available on GitHub
+- [GRAN - Geological Survey R Archive Network](https://owi.usgs.gov/R/gran.html) - GRAN is a repository of curated R packages developed by USGS employees for USGS and external use
 
 
 
