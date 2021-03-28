@@ -113,7 +113,7 @@ As I said up top, having a variety of datasets to play around with is fantastic.
 [folio](https://cran.r-project.org/web/packages/folio/index.html) – Datasets for teaching quantitative approaches and modeling in archaeology and paleontology. Geological datasets include ice core data, δ18O data foram and sea level data. The archaeological datasets, however, are very interesting radiocarbon dating examples and trace element data from ancient ceramics.
 
 [geostats](https://cran.r-project.org/web/packages/geostats/index.html) – geostats includes 23 different datasets that are all used in examples/exercise throughout the .pdf textbook. Some highlights are:
-- AFM - 630 calc-alkali basalts from the Cascade Mountains and 474 tholeiitic basats from Iceland
+- AFM - 630 calc-alkali basalts from the Cascade Mountains and 474 tholeiitic basalts from Iceland
 - declustered - 28267 earthquakes between 1769 and 2016, with aftershocks and precursor events removed
 - DZ – Detrital zircon U-Pb data of 13 sand samples from China.
 - forams – Planktic foraminifera counts in surface sediments in the Atlantic Ocean
