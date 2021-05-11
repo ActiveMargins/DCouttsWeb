@@ -52,7 +52,7 @@ The second method spatially clusters the wells using k-means into an optimal num
 
 ### Model accuracy of different partitioning methods
 
-To compare the accuracy of the three different partitioning methods I used a random forest model composed of 500 trees. The exact model or parameters don't matter as much here; the change in error/accuracy is the important part. The plots below compare of measured values and predicted values of the target variable for the three partitioning techniques. The ticks along the x-axis display the coverage of the target variable in the training data. 
+To compare the accuracy of the three different partitioning methods I used a random forest model composed of 500 trees. These models are just built on the geochemical constraints and don't incorporate spatial locations. The exact model or parameters don't matter as much here; the change in error/accuracy is the important part. The plots below compare of measured values and predicted values of the target variable for the three partitioning techniques. The ticks along the x-axis display the coverage of the target variable in the training data. 
 
 ![alt="Comparison of Methods" ](/img/2021-04-22-LeakyData/PartitionComparison.png)
 
