@@ -36,6 +36,7 @@ While going through the list of packages on CRAN I was blown away by the diversi
 ### Geochemistry
 - [rgr](https://cran.r-project.org/web/packages/rgr/index.html) - Applied geochemistry exploratory data analysis
 - [isoplotR](https://cran.r-project.org/web/packages/IsoplotR/index.html) - Statistical toolbox for radiometric geochronology - *datasets included*
+- [GeoChemical Data ToolKIT](http://www.gcdkit.org/download) - The GeoChemical Data ToolKIT, or in short GCDkit, is a system for handling and recalculation of whole-rock analyses from igneous rocks. It is written in R, a language and environment for statistical computing and graphics. 
 - [OrgMassSpecR](https://cran.r-project.org/web/packages/OrgMassSpecR/index.html) - Organic/biological mass spectrometry data analysis
 - [CHNOSZ](https://cran.r-project.org/web/packages/CHNOSZ/index.html) - Thermodynamic calculations and diagrams for geochemistry
 - [ggtern](https://cran.r-project.org/web/packages/ggtern/index.html) - An extension to 'ggplot2', for the creation of ternary diagrams - *datasets included*
@@ -59,6 +60,7 @@ While going through the list of packages on CRAN I was blown away by the diversi
 - [zFactor](https://github.com/f0nzie/zFactor) - **GitHub Repo** - Computational tools for chemical, petrochemical and petroleum engineers
 
 ### Paleontology
+- [tidypaleo](https://cran.r-project.org/web/packages/tidypaleo/index.html) - Provides a set of functions with a common framework for age-depth model management, stratigraphic visualization, and common statistical transformations. See Dunnington et al. (2021) doi:10.18637/jss.v101.i07.
 - [velociraptr](https://cran.r-project.org/web/packages/velociraptr/index.html) - Functions for downloading, cleaning, and analyzing fossil data from the Paleobiology Database
 - [paleobioDB](https://cran.r-project.org/web/packages/paleobioDB/index.html) - Download and process data from the paleobiology batabase
 - [fossil](https://cran.r-project.org/web/packages/fossil/index.html) - Palaeoecological and palaeogeographical analysis tools - *datasets included*
@@ -131,3 +133,5 @@ For non-geoscience-related datasets there three main packages that contain class
 - [datasets](https://cran.r-project.org/web/packages/datasets.load/index.html) – A package of datasets including cars, ChickWeight, and AirPassengers.
 - [MASS](https://cran.r-project.org/web/packages/MASS/index.html) – A package functions and datasets to support the textbook “Modern Applied Statistics with S” (Venables and Ripley, 2002).
 - [mlbench](https://cran.r-project.org/web/packages/mlbench/index.html) – A packages that includes benchmark datasets for machine learning. It includes classic datasets like BostonHousing, Ionosphere, and BreastCancer.
+
+Last updated: 03/05/2022
