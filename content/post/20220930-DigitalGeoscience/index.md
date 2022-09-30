@@ -1,4 +1,20 @@
-# Building digital capacity in geoscience education
+---
+title: 'Building digital capacity in geoscience education'
+author: Danny
+date: '2022-09-30'
+slug: []
+categories:
+  - Blog
+tags:
+  - Geology
+  - Programming
+  - Eductaion
+subtitle: 'How do we better prepare geoscience students for modern geology?'
+description: 'Modern geoscience is rapdily eovlving, but some of our main tools are still analog. After some discussion with friends in the post-secondary education space I've jotted some notes down on a pathway forward for digital geoscience education.'
+image: 'img/2021_1_21-BehindstRatstat/header_valdes_small.jpg'
+---
+
+# 
 
 There's a lot of buzz in the geoscience community around data science and machine learning applications. However, these topics are not the starting point in journey that those who use these tools took. Additionally, not all geoscientists need to know how to tune machine learning models, interpret regression coefficients, or understand the basis of natural language processing. This is actually an incredibly small subset. What the vast majority geoscientists need to do is manipulate, summarize, interpret, and display data (often with a spatial component), which many geoscientists still struggle with.
 
