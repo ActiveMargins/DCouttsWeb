@@ -10,7 +10,7 @@ tags:
   - Education
   - Digital Geoscience
 subtitle: How do we better prepare geoscience students for modern geology?
-description: Modern geoscience is rapdily eovlving, but some of our main tools are still analog. After some discussion with friends in the post-secondary education space I've jotted some notes down on a pathway forward for digital geoscience education.
+description: Modern geoscience is rapdily evolving, but some of our main tools are still analog. After some discussion with friends in the post-secondary education space I've jotted some notes down on a pathway forward for digital geoscience education.
 image: 'img/2021_1_21-BehindstRatstat/header_valdes_small.jpg'
 ---
 
